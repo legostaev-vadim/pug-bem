@@ -1,0 +1,18 @@
+{
+  "name": "pug-bem",
+  "version": "1.0.0",
+  "description": "A plugin that adds BEM shortcuts to Pug",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pug",
+    "bem"
+  ],
+  "author": {
+    "name": "Legostaev Vadim",
+    "email": "legostaev.vadim@mail.ru"
+  },
+  "license": "ISC"
+}
