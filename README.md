@@ -2,11 +2,17 @@
 
 A plugin that adds **BEM** shortcuts to **Pug**
 
+- **[BEM](https://en.bem.info/methodology/quick-start/)**
+- **[Pug](https://pugjs.org/api/getting-started.html)**
+
 # Install
 
 ```
 npm install pug pug-bem --save-dev
 ```
+
+- **[Gulp](https://www.npmjs.com/package/gulp-pugbem)**
+- **[Webpack](https://www.npmjs.com/package/pug-bem-plain-loader)**
 
 ## Setup
 
@@ -23,7 +29,7 @@ var options = {
 var fn = pug.compile('string of pug', options);
 ```
 
-[Pug Options](https://pugjs.org/api/reference.html)
+- **[Options](https://pugjs.org/api/reference.html)**
 
 
 ## Example Usage
