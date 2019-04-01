@@ -1,6 +1,6 @@
 {
   "name": "pug-bem",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "A plugin that adds BEM shortcuts to Pug",
   "main": "index.js",
   "scripts": {

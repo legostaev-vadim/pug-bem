@@ -14,8 +14,12 @@ var bem = require('pug-bem');
 
 // block prefix
 bem.b = 'my-';
+```
 
-// or default 'b-'
+**or**
+
+```js
+// default 'b-'
 bem.b = true;
 ```
 
