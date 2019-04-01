@@ -4,6 +4,7 @@ A plugin that adds **BEM** shortcuts to **Pug**
 
 - **[BEM](https://en.bem.info/methodology/quick-start/)**
 - **[Pug](https://pugjs.org/api/getting-started.html)**
+- **[for Bootstrap](https://github.com/legostaev-vadim/gulp-pugbem/issues/1)**
 
 # New! v1.2.0
 
